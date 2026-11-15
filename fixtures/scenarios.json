@@ -1,0 +1,50 @@
+[
+  {
+    "id": "standard",
+    "entry": "facilities.fgb",
+    "version": "source-v1",
+    "resources": [
+      "facilities.fgb",
+      "feature-source.json",
+      "unindexed.fgb"
+    ],
+    "behavior": "standard",
+    "description": "设施巡检资料：standard"
+  },
+  {
+    "id": "unindexed",
+    "entry": "unindexed.fgb",
+    "version": "source-v1",
+    "resources": [
+      "facilities.fgb",
+      "feature-source.json",
+      "unindexed.fgb"
+    ],
+    "behavior": "unindexed",
+    "description": "设施巡检资料：unindexed"
+  },
+  {
+    "id": "ignored-range",
+    "entry": "facilities.fgb",
+    "version": "source-v1",
+    "resources": [
+      "facilities.fgb",
+      "feature-source.json",
+      "unindexed.fgb"
+    ],
+    "behavior": "ignored-range",
+    "description": "设施巡检资料：ignored-range"
+  },
+  {
+    "id": "changed",
+    "entry": "facilities.fgb",
+    "version": "source-v1",
+    "resources": [
+      "facilities.fgb",
+      "feature-source.json",
+      "unindexed.fgb"
+    ],
+    "behavior": "changed",
+    "description": "设施巡检资料：changed"
+  }
+]
